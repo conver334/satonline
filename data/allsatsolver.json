@@ -1,0 +1,8 @@
+{
+    "server":[
+        {"name":"nbc_minisat_all-1.0.2", "id":1},
+        {"name":"bdd_minisat_all-1.0.2", "id":2},
+        {"name":"bc_minisat_all-1.1.2", "id":3}
+
+    ]
+}
